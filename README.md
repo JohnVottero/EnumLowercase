@@ -27,3 +27,8 @@ This issue is caused by the addition of ".ToLower..." in the GetDisplay enum ext
 
 I haven't been able to determine why the ToLower was added to this method.
 It seems to be a breaking change that was not documented in the release notes.
+
+Here is a screenshot of the issue:
+
+![Screenshot](WeatherPage.png)
+
