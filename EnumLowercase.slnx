@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="EnumLowercase.Client/EnumLowercase.Client.csproj" />
+  <Project Path="EnumLowercase/EnumLowercase.csproj" />
+</Solution>
